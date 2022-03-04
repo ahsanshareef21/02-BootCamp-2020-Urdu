@@ -6,6 +6,14 @@ import Dinner from './dinner';
         <div className="App">
 
        <Dinner dishName = "Nihari"  sweetDish= "Jalabee"/>
+
+       <hr/>
+
+        <Dinner dishName = "Allo"  sweetDish= "Eggs"/>
+
+        <hr/>
+
+         <Dinner dishName = "Biryani"  sweetDish= "Suger"/>
          
   </div>
   
