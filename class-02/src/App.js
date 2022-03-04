@@ -1,10 +1,9 @@
 import react from 'react';
 
 function App() {
-  return (
-    
-   
-  );
+  return
+  
+   <h3> Hello World</h3>
 }
 
-export default App;
+export default App
