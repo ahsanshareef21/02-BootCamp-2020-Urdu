@@ -2,13 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Dinner from './dinner';
+// import Dinner from './dinner';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Dinner/>
+    {/* <Dinner/> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

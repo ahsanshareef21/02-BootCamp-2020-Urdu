@@ -1,9 +1,14 @@
 import React from 'react'
+import Dinner from './dinner';
 
  function App() {
-  return <h1>Hello World </h1>
-  // const name ="Muhammad Ahsan"
-  return
-} 
+   return(
+        <div className="App">
 
-export default App
+       <Dinner dishName = "Nihari"  sweetDish= "Jalabee"/>
+         
+  </div>
+  
+  );
+}
+export default App;
