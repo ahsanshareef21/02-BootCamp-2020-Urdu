@@ -29,3 +29,12 @@ let person = {
 }
 console.log(person);
 
+// Dot Notation
+
+person.firstName="Muhammad Ahsan";
+console.log(person.firstName);
+
+//Bracket Notation:
+
+person['firstName'] = "Zahid" ;
+console.log(person['firstName']);
