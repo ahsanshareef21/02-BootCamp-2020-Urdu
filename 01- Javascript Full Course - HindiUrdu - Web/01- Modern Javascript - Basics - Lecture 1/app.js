@@ -25,8 +25,7 @@ console.log(lname);
 let person = {
     firstName = "ali";
     lastName = "Raza";
-
-
+    age=22;
 }
-
+console.log(person);
 
