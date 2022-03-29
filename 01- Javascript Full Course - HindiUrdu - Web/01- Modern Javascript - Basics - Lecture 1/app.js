@@ -15,5 +15,5 @@ console.log(fname);
 
 
 
-const fname= "Raza";
-console.log(fname);
+const lname= "Raza";
+console.log(lname);
