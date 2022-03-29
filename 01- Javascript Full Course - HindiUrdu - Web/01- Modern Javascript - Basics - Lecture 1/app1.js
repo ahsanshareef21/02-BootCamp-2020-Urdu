@@ -17,3 +17,9 @@ console.log(sliceResut);
 
 let replace= email.replace('ahsan','aliRaza');
 console.log(replace);
+
+//Substring--> Main to Sub
+
+let substr = email.substr(5,5);
+console.log(substr);
+
