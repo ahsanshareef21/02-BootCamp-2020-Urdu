@@ -18,6 +18,15 @@ console.log(fname);
 const lname= "Raza";
 console.log(lname);
 
+// Permitive and refrance data type
 
+//Refrance Data type => objects, litrals, Arrays
+
+let person = {
+    firstName = "ali";
+    lastName = "Raza";
+
+
+}
 
 
