@@ -20,6 +20,6 @@ console.log(replace);
 
 //Substring--> Main to Sub
 
-let substr = email.substr(5,5);
+let s = email.substr(5,5);
 console.log(substr);
 
