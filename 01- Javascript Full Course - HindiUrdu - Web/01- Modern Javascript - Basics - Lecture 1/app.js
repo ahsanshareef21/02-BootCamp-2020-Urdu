@@ -23,9 +23,9 @@ console.log(lname);
 //Refrance Data type => objects, litrals, Arrays
 
 let person = {
-    firstName = "ali";
-    lastName = "Raza";
-    age=22;
+    firstName : "ali";
+    lastName  : "Raza";
+    age : 22;
 }
 console.log(person);
 
