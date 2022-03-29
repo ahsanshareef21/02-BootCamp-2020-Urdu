@@ -38,3 +38,8 @@ console.log(person.firstName);
 
 person['firstName'] = "Zahid" ;
 console.log(person['firstName']);
+
+
+//Arrays:
+let app=['facebook', 'Fb', 'Gb', 'Insta'];
+console.log(app);
