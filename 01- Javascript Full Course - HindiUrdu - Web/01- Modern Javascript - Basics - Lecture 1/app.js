@@ -17,3 +17,5 @@ console.log(fname);
 
 const lname= "Raza";
 console.log(lname);
+
+
