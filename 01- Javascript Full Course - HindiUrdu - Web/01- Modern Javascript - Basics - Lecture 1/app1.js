@@ -1,1 +1,1 @@
-!
+document.write(" <h2>javascript Lecture - 02 </h2>")
