@@ -6,7 +6,7 @@ let email = "Muhammadahsan7099@gmail.com";
 
 // Search the last no from the string
 
-let resut = email.lastIndexOf(m);
+let resut = email.lastIndexOf('m');
 
 console.log(resut);
 
