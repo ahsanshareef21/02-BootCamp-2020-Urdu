@@ -20,8 +20,8 @@ console.log(sliceResut);
 
 // // Replace from the string
 
-// let replace= email.replace('ahsan','aliRaza');
-// console.log(replace);
+let replace= email.replace('ahsan','aliRaza');
+console.log(replace);
 
 // //Substring--> Main to Sub
 
