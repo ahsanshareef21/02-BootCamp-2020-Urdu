@@ -46,5 +46,16 @@ console.log(no);
 
 // Array Method
 
-let name = ["ali", "raza", "ahsan"];
-console.log(name);
+let friends = ["ali", "raza", "ahsan"];
+console.log(friends);
+
+console.log(friends.length);
+
+//concatination method
+
+let concat = friends.concat(["Java", "Script"]);
+
+console.log(concat);
+
+let lastRem= friends.pop()
+
