@@ -6,9 +6,9 @@ let email = "Muhammadahsan7099@gmail.com";
 
 // Search the last no from the string
 
-let resut = email.lastIndexOf('m');
+let name = email.lastIndexOf('m');
 
-console.log(resut);
+console.log(name);
 
 
 //slice
@@ -23,8 +23,8 @@ console.log(sliceResut);
 let change = email.replace('ahsan','aliRaza');
 console.log(change);
 
-// //Substring--> Main to Sub
+// //Substring
 
-// let s = email.substr(5,5);
-// console.log(substr);
+let subStr = email.substr(5,10);
+console.log(subStr);
 
