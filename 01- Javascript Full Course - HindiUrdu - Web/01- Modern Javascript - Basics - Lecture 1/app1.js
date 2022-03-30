@@ -33,6 +33,24 @@ console.log(subStr);
 let domainName= email.slice(email.lastIndexOf('@'), email.length);
 console.log(domainName);
 
+// Template litrals
+
+
+
+const title='Blog Post';
+const author='Ahsan';
+const likes = 300;
+
+let no=`
+ <h2>${title}</h2>
+ <p>${author}</p>
+ <span>This Blog has ${likes}</span>`;
+
+console.log(no);
+
+
+
+
 
 
 
