@@ -49,6 +49,10 @@ let no=`
 console.log(no);
 
 
+// Array Method
+
+
+
 
 
 
