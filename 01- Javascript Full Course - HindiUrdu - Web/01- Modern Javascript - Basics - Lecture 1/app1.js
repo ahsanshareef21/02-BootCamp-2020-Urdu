@@ -57,5 +57,15 @@ let concat = friends.concat(["Java", "Script"]);
 
 console.log(concat);
 
-let lastRem= friends.pop()
+console.log(friends);
 
+//remove last element
+
+let lastRem = friends.pop();
+console.log(lastRem);
+
+//Splice Method
+
+month = ["jan", "Feb", "March"];
+month.splice(0, 0, "Aug");
+console.log(month);
