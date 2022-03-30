@@ -28,7 +28,10 @@ console.log(change);
 let subStr = email.substr(5,10);
 console.log(subStr);
 
+// Find Domain Nam with Slice Method
 
+let domainName= email.slice(email.lastIndexOf('@'), email.length);
+console.log(domainName);
 
 
 
