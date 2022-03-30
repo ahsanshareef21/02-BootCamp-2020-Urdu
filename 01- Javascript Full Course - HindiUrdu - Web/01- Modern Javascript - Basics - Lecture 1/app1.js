@@ -23,8 +23,12 @@ console.log(sliceResut);
 let change = email.replace('ahsan','aliRaza');
 console.log(change);
 
-// //Substring
+// //Substring  Startind index sy ktny no print krany han
 
 let subStr = email.substr(5,10);
 console.log(subStr);
+
+
+
+
 
