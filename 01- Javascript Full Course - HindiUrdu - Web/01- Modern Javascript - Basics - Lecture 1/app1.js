@@ -6,15 +6,17 @@ let email = "Muhammadahsan7099@gmail.com";
 
 // Search the last no from the string
 
-let resut = email.lastIndexOf('m'\);
+let resut = email.lastIndexOf('m');
 
 console.log(resut);
 
 
-// //slice
-// //string.slice(form , to)
-// let sliceResut = email.slice(0,6)
-// console.log(sliceResut);
+//slice
+// string.slice(form , to)
+
+let sliceResut = email.slice(0,6)
+console.log(sliceResut);
+
 
 // // Replace from the string
 
