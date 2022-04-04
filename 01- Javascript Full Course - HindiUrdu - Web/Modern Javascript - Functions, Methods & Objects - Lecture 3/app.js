@@ -7,8 +7,6 @@ myname();
 
 document.write("<br>");
 
-
-
 //function expression
 
 const lastname = function () {
@@ -16,6 +14,4 @@ const lastname = function () {
 };
 lastname();
 
-
-
-//JS Ttreat 
+//JS Ttreat
