@@ -1,5 +1,14 @@
-function myname(x, y) {
-  return 3 * 4;
-}
+//function declearaton
 
-document.write(myname());
+function myname() {
+  document.write("Muhammad Ahsan");
+}
+myname();
+
+document.write("<br>");
+//function expression
+
+const lastname = function () {
+  document.write("Ali Raza");
+};
+lastname();
