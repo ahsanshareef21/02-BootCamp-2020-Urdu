@@ -8,10 +8,24 @@ myname();
 document.write("<br>");
 
 //function expression
- 
+
 const lastname = function () {
   document.write("Ali Raza");
 };
 lastname();
 
-//JS Ttreat
+document.write("<br>");
+
+//Parmeters and Arguments
+
+const a = function (Name, Class) {
+  document.write(`${Name}, ${Class}`);
+};
+a("Muhammad Ahsan", "BSCS");
+
+//
+
+const b = function (Name = "Umer", Class = "CS") {
+  document.write(`${Name}, ${Class}`);
+};
+b();
