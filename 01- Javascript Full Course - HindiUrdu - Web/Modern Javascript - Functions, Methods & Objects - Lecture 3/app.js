@@ -8,7 +8,7 @@ myname();
 document.write("<br>");
 
 //function expression
-
+ 
 const lastname = function () {
   document.write("Ali Raza");
 };
