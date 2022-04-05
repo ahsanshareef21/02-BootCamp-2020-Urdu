@@ -30,4 +30,7 @@ const b = function (Name = "Umer", Class = "CS") {
 };
 b();
 
+//Function Can return Values
+
+const lastArea = function(radus);
 
