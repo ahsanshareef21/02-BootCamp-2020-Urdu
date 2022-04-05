@@ -32,5 +32,9 @@ b();
 
 //Function Can return Values
 
-const lastArea = function(radus);
-
+const lastArea = function (radus) {
+  let area = 3.14 * radius ** 2;
+  return area;
+};
+const area = lastArea(4);
+console.log(area);
