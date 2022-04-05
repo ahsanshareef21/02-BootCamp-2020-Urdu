@@ -29,3 +29,5 @@ const b = function (Name = "Umer", Class = "CS") {
   document.write(`${Name}, ${Class}`);
 };
 b();
+
+
