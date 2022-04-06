@@ -39,3 +39,5 @@ const calcArea = function (radius) {
 };
 const area = calcArea(4);
 console.log(area);
+
+//Arrow function
