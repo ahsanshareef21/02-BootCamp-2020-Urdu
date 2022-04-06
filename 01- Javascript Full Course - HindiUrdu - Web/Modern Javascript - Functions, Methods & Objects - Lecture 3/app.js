@@ -40,4 +40,12 @@ const calcArea = function (radius) {
 const area = calcArea(4);
 console.log(area);
 
+
 //Arrow function
+
+
+const ali()
+ =>console.log("My name is ");
+
+ali();
+
