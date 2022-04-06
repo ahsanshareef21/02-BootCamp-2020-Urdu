@@ -1,51 +1,50 @@
-//function declearaton
+// //function declearaton
 
-function myname() {
-  document.write("Muhammad Ahsan");
-}
-myname();
+// function myname() {
+//   document.write("Muhammad Ahsan");
+// }
+// myname();
 
-document.write("<br>");
+// document.write("<br>");
 
-//function expression
+// //function expression
 
-const lastname = function () {
-  document.write("Ali Raza");
-};
-lastname();
+// const lastname = function () {
+//   document.write("Ali Raza");
+// };
+// lastname();
 
-document.write("<br>");
+// document.write("<br>");
 
-//Parmeters and Arguments
+// //Parmeters and Arguments
 
-const a = function (Name, Class) {
-  document.write(`${Name}, ${Class}`);
-};
-a("Muhammad Ahsan", "BSCS");
+// const a = function (Name, Class) {
+//   document.write(`${Name}, ${Class}`);
+// };
+// a("Muhammad Ahsan", "BSCS");
 
-//
+// //
 
-const b = function (Name = "Umer", Class = "CS") {
-  document.write(`${Name}, ${Class}`);
-};
-b();
+// const b = function (Name = "Umer", Class = "CS") {
+//   document.write(`${Name}, ${Class}`);
+// };
+// b();
 
-//Function Can return Values
+// //Function Can return Values
 
-const calcArea = function (radius) {
-  // let area = 3.14 * radius ** 2;
-  // return area;
-  return 3.13 * radius ** 2;
-};
-const area = calcArea(4);
-console.log(area);
+// const calcArea = function (radius) {
+//   // let area = 3.14 * radius ** 2;
+//   // return area;
+//   return 3.13 * radius ** 2;
+// };
+// const area = calcArea(4);
+// console.log(area);
 
 
 //Arrow function
 
 
-const ali()
- =>console.log("My name is ");
+const ali= () =>console.log("My name is ");
 
 ali();
 
