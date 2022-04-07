@@ -45,3 +45,24 @@
 const ali = () => console.log("My name is Muhammad ");
 
 ali();
+
+
+function bill= (products, tex)=>{
+    let total = 0;
+    for (let i=0; i<products.length; i++){
+        total+=products[i]+products[i] * tex;
+
+    }
+    return total
+}
+
+// Function VS Method
+
+
+
+
+
+
+
+
+
