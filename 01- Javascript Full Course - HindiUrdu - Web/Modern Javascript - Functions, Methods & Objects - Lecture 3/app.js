@@ -58,11 +58,10 @@ function bill= (products, tex)=>{
 
 // Function VS Method
 
+ // Function define array    ,  metods are in objects
 
-
-
-
-
+ // 01 How we invoke them
+ // 03  
 
 
 
