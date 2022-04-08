@@ -61,7 +61,7 @@ function bill= (products, tex)=>{
  // Function define array    ,  metods are in objects
 
  // 01 How we invoke them
- // 03  
+ // 02 where they are used  and stored
 
 
 
