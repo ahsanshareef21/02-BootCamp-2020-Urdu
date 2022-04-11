@@ -47,7 +47,7 @@ const ali = () => console.log("My name is Muhammad ");
 ali();
 
 
-function bill= (products, tex)=>{
+function bill = (products, tex)=>{
     let total = 0;
     for (let i=0; i<products.length; i++){
         total+=products[i]+products[i] * tex;
@@ -58,7 +58,7 @@ function bill= (products, tex)=>{
 
 // Function VS Method
 
- // Function define array    ,  metods are in objects
+ // Function define array    ,  methods are in objects
 
  // 01 How we invoke them
  // 02 where they are used / stored
