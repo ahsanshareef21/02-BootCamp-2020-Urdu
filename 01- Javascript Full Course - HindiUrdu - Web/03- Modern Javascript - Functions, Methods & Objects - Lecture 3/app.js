@@ -63,7 +63,6 @@ function bill = (products, tex)=>{
  // 01 How we invoke them
  // 02 where they are used / stored
 
+
  
-
-
 
