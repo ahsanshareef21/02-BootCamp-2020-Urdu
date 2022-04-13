@@ -8,3 +8,11 @@ console.log(paraone);
 
 const paraDiv = document.querySelector("div >.err-msg-two");
 console.log(paraDiv);
+
+const paratwo = document.querySelector("body > h2");
+console.log(paratwo);
+
+const paraAll = document.querySelectorAll("p");
+console.log(paraAll);
+
+console.log(paraAll[3]);
