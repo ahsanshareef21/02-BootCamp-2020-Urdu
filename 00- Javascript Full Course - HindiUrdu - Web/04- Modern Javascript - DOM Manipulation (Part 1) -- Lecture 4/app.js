@@ -6,5 +6,5 @@ console.log(para);
 const paraone = document.querySelector(".err-msg");
 console.log(paraone);
 
-const paraDiv = document.querySelector("div>p");
+const paraDiv = document.querySelector("div .err-msg-two");
 console.log(paraDiv);
