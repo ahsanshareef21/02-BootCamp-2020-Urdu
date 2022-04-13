@@ -16,3 +16,11 @@ const paraAll = document.querySelectorAll("p");
 console.log(paraAll);
 
 console.log(paraAll[3]);
+
+console.log(
+  paraAll.forEach((ele) => {
+    console.log(ele);
+  })
+);
+
+// Other ways to Use Querry thr DOM
