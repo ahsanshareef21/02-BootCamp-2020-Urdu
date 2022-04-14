@@ -24,3 +24,13 @@ console.log(
 );
 
 // Other ways to Use Querry thr DOM
+
+// GetelementById()
+
+const title = document.getElementById("title");
+console.log(title);
+
+// GetElementBy class Name
+
+const get_Elem = document.getElementsByClassName(".err-msg");
+console.log(get_Elem);
